@@ -1,0 +1,9 @@
+.tetris{
+    display: inline-block;
+}
+.contact{
+    display: inline-block;
+    top: 5%;
+    margin-top: 10px;
+    position: absolute;
+}
